@@ -1,3 +1,14 @@
+/*
+================================================================================
+DDL Scripts: Create bronze tables and stored procedures
+================================================================================
+Script purpose
+	This script creates tables in the bronze layer, dropping existing tables
+	if the already exists.
+	Run this script to redefine the DDL structure of a bronze tables
+===============================================================================
+*/
+
 ================================================================================
 --Building a bronze layer
 ================================================================================
